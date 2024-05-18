@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+  <Document name="monitormanager.ZPM">
+    <Module>
+      <Name>monitormanager</Name>
+      <Version>1.0.1</Version>
+      <Description>Enhanced Monitor Manager</Description>
+      <Packaging>module</Packaging>
+      <SourcesRoot>src</SourcesRoot>
+      <Resource Name="JK.PKG"/>
+    </Module>
+  </Document>
+</Export>
