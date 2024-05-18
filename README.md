@@ -21,8 +21,9 @@ To trigger some events you may try from Terminal
 ZN "%SYS"
 DO ^JOURNAL
 ```  
-Stop and Start creates events that you can see in Monitor.     
-The exaple takes every event.  
+Stop and Start creates events that you can see in Monitor.    
+    
+The example takes every event.  
 It's up to you to apply filters on what you really are intersted in.  
 
 To open IRIS Terminal do:
